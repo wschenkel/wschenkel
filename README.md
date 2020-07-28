@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey there, I'm Willian! 👋
 
-<!--
-**wschenkel/wschenkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Frontend developer at [@CWI Software](https://cwi.com.br/) <br>
+⚡ Currently living in Estância Velha, Brazil
 
-Here are some ideas to get you started:
+### What I'm studying at the moment 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 [React and React Native](https://reactjs.org/) <br>
+🌱 [Swift](https://swift.org/)
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://wschenkel.com) <br>
+🐦 [Twitter](https://twitter.com/wschenkel) <br>
+📸 [Instagram](https://instagram.com/wschenkel_) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/willian-schenkel) <br>
+
+### Get in touch 💬
+📫 [hischenkel@gmail.com](mailto:hischenkel@gmail.com)
