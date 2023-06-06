@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Willian!
 
-🖥  Frontend Engineer at [Grupo Boticário](https://www.grupoboticario.com.br/) <br>
+🖥  Frontend Developer at [Grupo Boticário](https://www.grupoboticario.com.br/) <br>
 🇧🇷  Living in Estância Velha, Rio Grande do Sul - Brazil
 
 ### 🛠 Languages and Tools:
