@@ -18,7 +18,5 @@
 
 ### 🌎 Find me elsewhere
 
-🚀 [Site](https://wschenkel.com) <br>
 🐦 [Twitter](https://twitter.com/wschenkel_) <br>
-📸 [Instagram](https://instagram.com/willian.schenkel) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/willian-schenkel) <br>
